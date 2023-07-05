@@ -90,6 +90,23 @@ This model is the comparison of the bear weight. The residual standard error is 
 
 
 
+```{r}
+HEADLEN <- lm(LENGTH~HEADLEN,data=bears)
+plot(LENGTH~HEADLEN,data=bears)
+abline(HEADLEN)
+summary.lm(HEADLEN)
+```
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
