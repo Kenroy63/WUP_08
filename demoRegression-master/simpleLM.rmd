@@ -124,6 +124,6 @@ The Residual standard error is 7.511 while the adjusted R-square is 0.5073 Rank 
 
 
 
-
+Conclusion: In conclusion with all the rankings set in place you have to take into consideration the greatest residual which is headlen Ranked at #1 to dead last at the bear headwth which is ranked at #6 today we got to see as a class the statistical importance of the residual number, and also the R square!
 
 
