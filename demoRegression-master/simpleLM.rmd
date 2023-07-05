@@ -27,7 +27,7 @@ abline(simp)
 summary.lm(simp)
 ```
 
-The bear neck is about 20 inches around the neck, and also 57 inches in length. The residual standard error is 5.376, and the R-squared is .7524
+The bear neck is about 20 inches around the neck, and also 57 inches in length. The residual standard error is 5.376, and the R-squared is .7524 Rank # 4
 
 ## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
 
@@ -40,7 +40,7 @@ abline(MYCHEST)
 summary.lm(MYCHEST)
 ```
 
-The residual standard error is 4.939 and its lower than the previous model which is 5.376 better. In addition, the R-squared is 0.791, which is higher and also better. So in ranking chest is above Neck so we can conclude chest is better than neck.
+The residual standard error is 4.939 and its lower than the previous model which is 5.376 better. In addition, the R-squared is 0.791, which is higher and also better. So in ranking chest is above Neck so we can conclude chest is better than neck. Rank #5
 
 
 
@@ -57,7 +57,7 @@ summary.lm(MYHEADWTH)
 ```
 
 
-As the third model, The residual standard error is 7.32, which is making it worse.In addition, the R-square is now 0.5409 which is also a decline from the previous model. comparing all three models, this is the one at the bottom of the list
+As the third model, The residual standard error is 7.32, which is making it worse.In addition, the R-square is now 0.5409 which is also a decline from the previous model. comparing all three models, this is the one at the bottom of the list. Rank #6
 
 
 
@@ -82,7 +82,7 @@ abline(MYWEIGHT)
 summary.lm(MYWEIGHT)
 ```
 
-This model is the comparison of the bear weight. The residual standard error is 5.432, and the adjusted R square is 0.7472.In this case it is higher than the last model which is worse, and the adjusted R-square is higher than the previous model which is better. So whereas, the residual standard error is worse, the adjusted R-square is better. at this point the bears chest has the highest adjusted R-square, which is the best. as far as the standard.
+This model is the comparison of the bear weight. The residual standard error is 5.432, and the adjusted R square is 0.7472.In this case it is higher than the last model which is worse, and the adjusted R-square is higher than the previous model which is better. So whereas, the residual standard error is worse, the adjusted R-square is better. at this point the bears chest has the highest adjusted R-square, which is the best. as far as the standard. Rank #3
 
 
 
@@ -117,7 +117,7 @@ abline(AGE)
 summary.lm(AGE)
 ``` 
 
-
+The Residual standard error is 7.511 while the adjusted R-square is 0.5073 Rank #2
 
 
 
