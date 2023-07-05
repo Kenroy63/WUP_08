@@ -71,3 +71,26 @@ As the third model, The residual standard error is 7.32, which is making it wors
 
 
 
+
+
+
+
+```{r}
+MYWEIGHT<- lm(LENGTH~WEIGHT,data=bears)
+plot(LENGTH~WEIGHT,data=bears)
+abline(MYWEIGHT)
+summary.lm(MYWEIGHT)
+```
+
+This model is the comparison of the bear weight. The residual standard error is 5.432, and the adjusted R square is 0.7472.In this case it is higher than the last model which is worse, and the adjusted R-square is higher than the previous model which is better. So whereas, the residual standard error is worse, the adjusted R-square is better. at this point the bears chest has the highest adjusted R-square, which is the best. as far as the standard.
+
+
+
+
+
+
+
+
+
+
+
