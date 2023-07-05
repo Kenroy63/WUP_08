@@ -57,7 +57,7 @@ summary.lm(MYHEADWTH)
 ```
 
 
-As the third model, The residual standard error is 7.32, which is making it worse.In addition, the R-square is now 0.5409 which is also a decline from the previous model. comparing all three models, this is the one at the bottom of the list. Rank #6
+As the third model, The residual standard error is 7.32, which is making it worse.In addition to the, the R-square is now 0.5409 which is also a decline from the previous model. comparing all three models, this is the one at the bottom of the list. Rank #6
 
 
 
