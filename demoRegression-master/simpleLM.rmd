@@ -99,7 +99,23 @@ summary.lm(HEADLEN)
 
 
 
- The Residual error is 4.235 fro the headlen while the R square is 0.8434
+ The Residual error is 4.235 fro the headlen while the R square is 0.8434 This one is ranked #1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+```{r}
+AGE <- lm(LENGTH~AGE,data=bears)
+plot(LENGTH~AGE,data=bears)
+abline(AGE)
+summary.lm(AGE)
+``` 
 
 
 
