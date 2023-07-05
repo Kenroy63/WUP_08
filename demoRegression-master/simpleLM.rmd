@@ -99,7 +99,7 @@ summary.lm(HEADLEN)
 
 
 
- 
+ The Residual error is 4.235 fro the headlen while the R square is 0.8434
 
 
 
